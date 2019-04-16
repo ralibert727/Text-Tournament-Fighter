@@ -1,0 +1,2 @@
+# Text-Tournament-Fighter
+A text-based fighting game made in C++ in Microsoft Visual Studio 2017. Users can create a name for their fighter and allocate points into different stats to improve their combat skills. Once the two players are created, a text simulation of the battle will initiate with either a winner or a draw. Fighters are saved through text files, detailing their stats, how many matches they won, and when their exact name is typed into the program, the fighter and their stats will be loaded in, skipping the point allocation segment of the program.
